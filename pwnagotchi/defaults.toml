@@ -18,6 +18,10 @@ main.whitelist = [
 ]
 main.filter = ""
 
+ui.display.enabled = true
+ui.display.type = "waveshare213inb_v4"
+ui.display.color = "black"
+
 main.plugins.grid.enabled = true
 main.plugins.grid.report = false
 main.plugins.grid.exclude = [
